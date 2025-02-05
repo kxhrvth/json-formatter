@@ -1,0 +1,34 @@
+
+"{searchTerms}",
+[
+"searchterms fb",
+"searchterms google chrome",
+"searchterms facebook",
+"search terms google",
+"searchterms sharepoint",
+"searchterms ytb",
+"searchterms path",
+"searchterms jg",
+"searchterms hub",
+"searchterms coco",
+"searchterms toomics",
+"searchterms bottom bruce"
+],
+[],
+[],
+{
+"google:suggestrelevance": [
+1300,
+1299,
+1298,
+1297,
+1296,
+1295,
+1294,
+1293,
+1292,
+1291,
+1290,
+1289
+]
+}
